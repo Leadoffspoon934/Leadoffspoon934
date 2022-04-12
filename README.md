@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Leadoffspoon934
-- 👀 I’m interested in video games and coding
+- 👀 I’m interested in music, video games, cyber seurity and coding
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on nothing right now
-- 📫 How to reach me discord: Spoon#9344 mail: kipo.lukes@gmail.com
+- 📫 How to reach me discord: LeadoffSpoon934#1424 mail: kipo.lukes@gmail.com
 
 <!---
 Leadoffspoon934/Leadoffspoon934 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
